@@ -1,0 +1,28 @@
+"district_name","condition","pre_mean","pre_std","pre_mean_pct","post_mean","post_std","post_mean_pct","p_value"
+"Kaushambi1","ane",6.8,1.9,67.7,7.5,1.9,75,0
+"Kaushambi1","aph",7.9,2,79.1,8.6,1.8,86.3,0
+"Kaushambi1","fever",2.8,1.2,28.1,3.2,1.3,32,0.024841
+"Kaushambi1","hrt",7.2,1.6,72.4,7.4,1.6,73.9,0.143703
+"Kaushambi1","htn",7,1.5,69.8,7.4,1.4,74,1.5e-05
+"Kaushambi1","qanc",7.5,1.6,75.1,8.4,1.5,84.1,0
+"Kaushambi1","sob",5,1.4,49.8,5.6,1.2,55.6,0
+"Kaushambi2","ane",6.4,1.7,64.4,6.6,1.7,65.9,0.194151
+"Kaushambi2","aph",7.9,1.8,78.8,8.5,1.7,85,0
+"Kaushambi2","fever",3,1.2,30,3.3,1.4,33.4,0.074397
+"Kaushambi2","hrt",7.2,1.6,71.7,7.1,1.7,70.9,0.517191
+"Kaushambi2","htn",7.2,1.5,72.2,7.4,1.6,73.5,0.215484
+"Kaushambi2","qanc",7,1.9,69.9,7.6,1.9,75.8,3.1e-05
+"Kaushambi2","sob",4.7,1.3,47,5,1.3,50.2,0.003764
+"Kaushambi3","ane",6.6,1.8,66.3,6.8,2.1,68.5,0.257707
+"Kaushambi3","aph",7.3,2.2,73.2,8,2.1,79.7,0.000767
+"Kaushambi3","hrt",7,2.2,69.9,7.8,1.8,77.8,2.2e-05
+"Kaushambi3","htn",6.8,1.8,67.5,7.5,1.5,74.7,0.002462
+"Kaushambi3","qanc",7.4,1.8,73.6,8.4,1.5,84.2,0
+"Kaushambi3","sob",4.3,1.4,43,4.9,1.4,49.1,9.8e-05
+"Overall Average","ane",6.6,1.8,66.5,7.1,1.9,71.2,NA
+"Overall Average","aph",7.8,2,77.8,8.5,1.9,84.5,NA
+"Overall Average","fever",2.9,1.2,28.9,3.3,1.3,32.6,NA
+"Overall Average","hrt",7.2,1.7,71.6,7.4,1.7,73.9,NA
+"Overall Average","htn",7,1.6,70,7.4,1.5,74,NA
+"Overall Average","qanc",7.3,1.7,73.2,8.2,1.7,81.6,NA
+"Overall Average","sob",4.8,1.4,47.5,5.3,1.3,52.7,NA

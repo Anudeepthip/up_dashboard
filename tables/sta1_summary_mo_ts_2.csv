@@ -1,0 +1,178 @@
+"district_name","condition","pre_mean","pre_std","pre_mean_pct","post_mean","post_std","post_mean_pct","n_pre","n_post","p_value"
+"Adilabad","epi",0,0,0,0,0,0,13,13,NA
+"Adilabad","hrt",0.8,0.4,8.3,1,0,10,12,12,NA
+"Adilabad","jau",0.1,0.3,0.8,1,0,10,13,13,NA
+"Adilabad","lscs",1.8,0.6,18.3,2,0,20,12,12,NA
+"Adilabad","sob",0,0,0,0,0,0,16,16,NA
+"Adilabad","tb",1.7,0.6,16.7,1.9,0.3,19.3,15,15,0.103814
+"Bhadradri Kothagudem","epi",0,0,0,0,0,0,16,16,NA
+"Bhadradri Kothagudem","hrt",0.5,0.5,4.7,0.9,0.4,8.7,15,15,0.008564
+"Bhadradri Kothagudem","jau",0.1,0.3,1.2,0.9,0.2,9.4,16,16,1e-06
+"Bhadradri Kothagudem","lscs",1.7,0.5,16.9,1.8,0.4,18.1,16,16,0.163876
+"Bhadradri Kothagudem","sob",0,0,0,0,0,0,15,15,NA
+"Bhadradri Kothagudem","tb",1.8,0.4,17.6,1.9,0.2,19.4,17,17,0.187628
+"Hyderabad","epi",0,0,0,0,0,0,55,55,NA
+"Hyderabad","hrt",0.6,0.5,6,0.8,0.4,8.1,52,52,0.001598
+"Hyderabad","jau",0.5,0.5,5.3,0.9,0.2,9.5,55,55,0
+"Hyderabad","lscs",1.8,0.5,18.2,1.9,0.3,19.2,49,49,0.023744
+"Hyderabad","sob",0,0,0,0,0,0,47,47,NA
+"Hyderabad","tb",1.7,0.5,16.7,1.8,0.5,18,55,55,0.033518
+"Jagtial","epi",0,0,0,0,0,0,19,19,NA
+"Jagtial","hrt",0.3,0.5,3.3,0.9,0.4,8.7,15,15,0.001316
+"Jagtial","jau",0.3,0.5,2.9,0.9,0.2,9.4,17,17,5.7e-05
+"Jagtial","lscs",1.6,0.6,16.1,1.9,0.3,18.9,18,18,0.096161
+"Jagtial","sob",0,0,0,0,0,0,17,17,NA
+"Jagtial","tb",1.8,0.4,17.5,2,0,20,16,16,NA
+"Jayashankar Bhupalpally","epi",0,0,0,0,0,0,14,14,NA
+"Jayashankar Bhupalpally","hrt",0.5,0.5,5.3,0.4,0.5,4,15,15,0.164318
+"Jayashankar Bhupalpally","jau",0.3,0.5,3.3,1,0,10,15,15,NA
+"Jayashankar Bhupalpally","lscs",1.5,0.7,14.7,2,0,20,15,15,NA
+"Jayashankar Bhupalpally","sob",0,0,0,0,0,0,14,14,NA
+"Jayashankar Bhupalpally","tb",2,0,20,1.9,0.3,19.3,14,14,NA
+"Jogulamba Gadwal","epi",0,0,0,0,0,0,15,15,NA
+"Jogulamba Gadwal","hrt",0.9,0.4,8.7,0.9,0.3,9.3,15,15,0.334282
+"Jogulamba Gadwal","jau",0.7,0.5,6.7,0.9,0.3,9.3,15,15,0.040569
+"Jogulamba Gadwal","lscs",1.9,0.3,19.3,1.9,0.3,19.3,14,14,1
+"Jogulamba Gadwal","sob",0,0,0,0,0,0,12,12,NA
+"Jogulamba Gadwal","tb",1.5,0.7,15.4,1.8,0.4,18.5,13,13,0.103891
+"Kamareddy","epi",0,0,0,0,0,0,18,18,NA
+"Kamareddy","hrt",0.3,0.5,3.1,0.6,0.5,6.2,13,13,0.039519
+"Kamareddy","jau",0.3,0.5,3.1,1,0,10,16,16,NA
+"Kamareddy","lscs",2,0,20,2,0,20,15,15,NA
+"Kamareddy","sob",0,0,0,0,0,0,16,16,NA
+"Kamareddy","tb",1.9,0.2,19.4,1.9,0.2,19.4,18,18,1
+"Karimnagar","epi",0,0,0,0,0,0,19,19,NA
+"Karimnagar","hrt",0.7,0.5,7.4,0.7,0.5,6.8,19,19,0.577753
+"Karimnagar","jau",0.4,0.5,3.8,0.9,0.3,9.2,13,13,0.002813
+"Karimnagar","lscs",1.8,0.4,17.8,1.8,0.5,17.8,18,18,1
+"Karimnagar","sob",0,0,0,0,0,0,17,17,NA
+"Karimnagar","tb",1.8,0.4,17.9,1.7,0.6,17.4,19,19,0.577753
+"Khammam","epi",0,0,0,0,0,0,24,24,NA
+"Khammam","hrt",0.5,0.5,5,0.7,0.5,7.3,22,22,0.02145
+"Khammam","jau",0.3,0.5,3.2,0.9,0.3,9.1,22,22,1.8e-05
+"Khammam","lscs",1.8,0.5,18.4,1.7,0.6,17.4,19,19,0.162829
+"Khammam","sob",0,0,0,0,0,0,21,21,NA
+"Khammam","tb",1.8,0.5,17.6,2,0,20,21,21,NA
+"Komaram Bheem Asifabad","hrt",0.5,0.5,5,0.9,0.4,8.6,22,22,0.002321
+"Komaram Bheem Asifabad","lscs",1.9,0.2,19.5,2,0,20,19,19,NA
+"Komaram Bheem Asifabad","sob",0,0,0,0,0,0,18,18,NA
+"Komaram Bheem Asifabad","tb",1.9,0.3,18.8,1.9,0.3,18.8,17,17,1
+"Mahabubabad","epi",0,0,0,0,0,0,18,18,NA
+"Mahabubabad","hrt",0.6,0.5,5.8,1,0,10,19,19,NA
+"Mahabubabad","jau",0.4,0.5,3.8,0.8,0.4,7.6,21,21,0.002213
+"Mahabubabad","lscs",1.8,0.4,17.5,2,0,20,20,20,NA
+"Mahabubabad","sob",0,0,0,0,0,0,20,20,NA
+"Mahabubabad","tb",1.8,0.4,17.9,1.7,0.7,17.4,19,19,0.577753
+"Mahabubnagar","epi",0,0,0,0,0,0,25,25,NA
+"Mahabubnagar","hrt",0.5,0.5,5.4,0.8,0.4,8.3,24,24,0.016089
+"Mahabubnagar","jau",0.5,0.5,5.4,0.9,0.3,9.2,24,24,0.001139
+"Mahabubnagar","lscs",1.7,0.5,17.2,1.9,0.3,18.8,25,25,0.103431
+"Mahabubnagar","sob",0,0,0,0,0,0,23,23,NA
+"Mahabubnagar","tb",1.8,0.4,17.6,1.9,0.3,19.2,25,25,0.042896
+"Mancherial","epi",0,0,0,0,0,0,19,19,NA
+"Mancherial","hrt",0.8,0.4,8.3,0.9,0.3,8.9,18,18,0.331333
+"Mancherial","jau",0.4,0.5,3.7,0.9,0.2,9.5,19,19,9.8e-05
+"Mancherial","lscs",1.6,0.7,15.8,1.8,0.6,17.9,19,19,0.162829
+"Mancherial","sob",0,0,0,0,0,0,18,18,NA
+"Mancherial","tb",1.6,0.6,15.8,1.9,0.2,19.5,19,19,0.015005
+"Medak","epi",0,0,0,0,0,0,18,18,NA
+"Medak","hrt",0.8,0.4,7.6,0.8,0.4,7.6,17,17,1
+"Medak","jau",0.7,0.5,6.9,0.9,0.2,9.4,16,16,0.040969
+"Medak","lscs",1.8,0.4,18.1,2,0,20,16,16,NA
+"Medak","sob",0,0,0,0,0,0,15,15,NA
+"Medak","tb",1.4,0.5,14.1,1.9,0.3,18.8,17,17,0.001671
+"Medchal Malkajgiri","epi",0,0,0,0,0,0,27,27,NA
+"Medchal Malkajgiri","hrt",0.9,0.3,9.3,1,0,10,29,29,NA
+"Medchal Malkajgiri","jau",0.4,0.5,3.8,0.9,0.3,9.2,24,24,0.000157
+"Medchal Malkajgiri","lscs",1.7,0.5,17,1.7,0.4,17.3,30,30,0.662362
+"Medchal Malkajgiri","sob",0,0,0,0,0,0,28,28,NA
+"Medchal Malkajgiri","tb",1.7,0.5,16.7,2,0,20,27,27,NA
+"Nagarkurnool","epi",0,0,0,0,0,0,21,21,NA
+"Nagarkurnool","hrt",0.3,0.5,3.3,1,0,10,21,21,NA
+"Nagarkurnool","jau",0.4,0.5,4.4,0.8,0.4,8.3,18,18,0.004331
+"Nagarkurnool","lscs",1.7,0.5,17.1,1.8,0.4,17.6,17,17,0.668353
+"Nagarkurnool","sob",0,0,0,0,0,0,19,19,NA
+"Nagarkurnool","tb",1.8,0.6,17.5,1.9,0.3,19,20,20,0.329877
+"Nalgonda","epi",0,0,0,0,0,0,36,36,NA
+"Nalgonda","hrt",0.5,0.5,5.3,0.8,0.4,7.8,36,36,0.010437
+"Nalgonda","jau",0.3,0.5,3.2,0.9,0.3,8.9,37,37,0
+"Nalgonda","lscs",1.9,0.3,18.6,2,0.2,19.7,37,37,0.043845
+"Nalgonda","sob",0,0,0,0,0,0,33,33,NA
+"Nalgonda","tb",1.6,0.5,16.1,1.9,0.3,18.9,36,36,0.000804
+"Narayanpet","epi",0,0,0,0,0,0,6,6,NA
+"Narayanpet","hrt",0.7,0.6,6.7,1,0,10,3,3,NA
+"Narayanpet","jau",0.3,0.5,3.3,1,0,10,6,6,NA
+"Narayanpet","lscs",1.7,0.5,16.7,1.8,0.4,18.3,6,6,0.363217
+"Narayanpet","sob",0,0,0,0,0,0,5,5,NA
+"Narayanpet","tb",1.7,0.5,16.7,1.7,0.5,16.7,6,6,NA
+"Nirmal","epi",0,0,0,0,0,0,11,11,NA
+"Nirmal","hrt",0.8,0.4,8.5,1,0,10,13,13,NA
+"Nirmal","jau",0.1,0.3,0.8,0.8,0.4,8.5,13,13,3.8e-05
+"Nirmal","lscs",1.4,0.8,14.2,1.9,0.3,19.2,12,12,0.052663
+"Nirmal","sob",0,0,0,0,0,0,10,10,NA
+"Nirmal","tb",1.5,0.8,15,1.6,0.7,16.2,8,8,0.350617
+"Nizamabad","epi",0,0,0,0,0,0,17,17,NA
+"Nizamabad","hrt",0.9,0.3,8.8,1,0,10,16,16,NA
+"Nizamabad","jau",0.3,0.5,3.5,0.9,0.3,8.7,23,23,6.7e-05
+"Nizamabad","lscs",1.6,0.5,16.2,2,0,20,13,13,NA
+"Nizamabad","sob",0,0,0,0,0,0,23,23,NA
+"Nizamabad","tb",1.7,0.6,16.7,1.8,0.5,18.1,21,21,0.186085
+"Peddapalli","epi",0,0,0,0,0,0,16,16,NA
+"Peddapalli","hrt",0.7,0.5,7.3,0.9,0.4,8.7,15,15,0.334282
+"Peddapalli","jau",0.4,0.5,4,1,0,10,15,15,NA
+"Peddapalli","lscs",1.9,0.2,19.4,1.9,0.2,19.4,17,17,1
+"Peddapalli","sob",0,0,0,0,0,0,14,14,NA
+"Peddapalli","tb",2,0,20,1.9,0.2,19.4,16,16,NA
+"Rajanna Sircilla","epi",0,0,0,0,0,0,10,10,NA
+"Rajanna Sircilla","hrt",1,0,10,1,0,10,6,6,NA
+"Rajanna Sircilla","jau",0.6,0.5,6,0.9,0.3,9,10,10,0.081126
+"Rajanna Sircilla","lscs",1.8,0.4,17.8,2,0,20,9,9,NA
+"Rajanna Sircilla","sob",0,0,0,0,0,0,9,9,NA
+"Rajanna Sircilla","tb",1.7,0.7,16.7,1.9,0.3,18.9,9,9,0.446813
+"Rangareddy","epi",0,0,0,0,0,0,37,37,NA
+"Rangareddy","hrt",0.8,0.4,7.7,0.8,0.4,8.3,48,48,0.371241
+"Rangareddy","jau",0.3,0.4,2.7,0.8,0.4,8.3,41,41,0
+"Rangareddy","lscs",1.9,0.4,18.6,1.9,0.2,19.4,35,35,0.183499
+"Rangareddy","sob",0,0,0,0,0,0,36,36,NA
+"Rangareddy","tb",1.8,0.4,18.1,1.9,0.4,19,42,42,0.209743
+"Sangareddy","epi",0,0,0,0,0,0,15,15,NA
+"Sangareddy","hrt",1,0,10,0.9,0.3,9.2,12,12,NA
+"Sangareddy","jau",0.2,0.5,2.5,1,0,10,12,12,NA
+"Sangareddy","lscs",1.9,0.3,19.2,1.9,0.3,19.2,12,12,NA
+"Sangareddy","sob",0,0,0,0,0,0,13,13,NA
+"Sangareddy","tb",1.6,0.5,16.2,1.8,0.4,18.5,13,13,0.082097
+"Siddipet","epi",0,0,0,0,0,0,20,20,NA
+"Siddipet","hrt",0.4,0.5,3.9,0.5,0.5,5.2,23,23,0.185519
+"Siddipet","jau",0.2,0.4,2.3,1,0.2,9.5,22,22,0
+"Siddipet","sob",0,0,0,0,0,0,20,20,NA
+"Siddipet","tb",1.7,0.6,16.7,1.8,0.4,18.3,24,24,0.103462
+"Suryapet","epi",0,0,0,0,0,0,16,16,NA
+"Suryapet","hrt",0.8,0.4,8.3,1,0,10,12,12,NA
+"Suryapet","jau",0.6,0.5,6,1,0,10,15,15,NA
+"Suryapet","lscs",1.8,0.4,17.5,1.9,0.2,19.4,16,16,0.188137
+"Suryapet","sob",0,0,0,0,0,0,16,16,NA
+"Suryapet","tb",1.3,0.7,13.1,1.8,0.4,18.1,16,16,0.006443
+"Wanaparthy","hrt",0.8,0.4,8.3,1,0,10,12,12,NA
+"Wanaparthy","jau",0.4,0.5,4.2,0.9,0.3,9.2,12,12,0.006872
+"Wanaparthy","lscs",1.8,0.6,18.3,2,0,20,12,12,NA
+"Wanaparthy","sob",0,0,0,0,0,0,13,13,NA
+"Wanaparthy","tb",1.9,0.3,19.2,2,0,20,13,13,NA
+"Warangal Rural","epi",0,0,0,0,0,0,3,3,NA
+"Warangal Rural","hrt",0.4,0.5,4,0.2,0.4,2,5,5,0.621308
+"Warangal Rural","jau",0.5,0.5,5,0.8,0.4,8.3,6,6,0.174688
+"Warangal Rural","lscs",1.4,0.9,14,1.2,0.8,12,5,5,0.621308
+"Warangal Rural","sob",0,0,0,0,0,0,4,4,NA
+"Warangal Rural","tb",1,0.7,10,1.6,0.9,16,5,5,0.070484
+"Warangal Urban","epi",0,0,0,0,0,0,17,17,NA
+"Warangal Urban","hrt",0.8,0.4,8.1,0.9,0.2,9.4,16,16,0.163876
+"Warangal Urban","jau",0.7,0.5,7.1,0.9,0.2,9.4,17,17,0.04131
+"Warangal Urban","lscs",1.8,0.4,18.1,1.9,0.3,18.8,16,16,0.33317
+"Warangal Urban","sob",0,0,0,0,0,0,18,18,NA
+"Warangal Urban","tb",1.8,0.4,18.5,2,0,20,13,13,NA
+"Yadadri Bhuvanagiri","epi",0,0,0,0,0,0,13,13,NA
+"Yadadri Bhuvanagiri","hrt",0.3,0.5,3.1,0.5,0.5,5.4,13,13,0.082097
+"Yadadri Bhuvanagiri","jau",0.2,0.4,1.5,1,0,10,13,13,NA
+"Yadadri Bhuvanagiri","lscs",1.7,0.5,17,1.8,0.4,18,10,10,0.591051
+"Yadadri Bhuvanagiri","sob",0,0,0,0,0,0,12,12,NA
+"Yadadri Bhuvanagiri","tb",1,0.9,10.4,1.1,1,10.8,26,26,0.663557
+NA,"",NA,NA,NA,NA,NA,NA,0,0,NA
